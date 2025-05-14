@@ -6,3 +6,5 @@ cmake -B build -G Ninja
 cmake --build build
 ./build/tutorial
 ```
+
+You can change the project name in CMakeLists.txt (change it wherever it says "tutorial")
